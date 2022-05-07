@@ -1,4 +1,4 @@
-# Bootstrap Temelleri
+# Bootstrap Basics
 
 I created Medium Clone Page... And I used in here
 container - rows - columns... One of my designing reasons;
